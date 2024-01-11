@@ -1,5 +1,8 @@
 ![Header](./github-header-alp.png)
 
+[![CTFL](https://img.shields.io/badge/CTFL-Certified-brightgreen)](https://www.isqi.org/en/software-tester.html)
+
+
 # 💫 About Me:
 👋 Hi there!  <br>🔭 I’m a software engineer with a passion for learning and a curiosity for understanding the processes behind software development. <br>🤝 In the past, I have focused my studies on Docker and Python<br>🌱 I’m currently working as a business analyst to gain a deeper understanding of the challenges and opportunities that arise when developing software within an organization. <br>✌️ I hold CTFL, CCBA, PSPO I and PSM I which have equipped me with business analysis best practices and Agile mindset with a strong understanding of Scrum<br>🦅 I'm a huge fan of Beşiktaş <br><br>On this GitHub profile, you will find some of my personal projects and contributions to open source software. I am always looking for opportunities to collaborate on new projects and learn from other developers, so feel free to reach out and connect!
 
