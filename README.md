@@ -1,6 +1,6 @@
 ![Header](./github-header-alp.png)
 
-[![CTFL](./ctfl.png]
+[![Header](./ctfl.png]
 
 
 # 💫 About Me:
