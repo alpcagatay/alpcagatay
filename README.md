@@ -1,6 +1,6 @@
 ![Header](./github-header-alp.png)
 
-[![Header](./ctfl.png]
+<img src="./ctfl.png" alt="ctfl" width="100" height="100">
 
 
 # 💫 About Me:
