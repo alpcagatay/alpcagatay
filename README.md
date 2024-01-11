@@ -1,6 +1,6 @@
 ![Header](./github-header-alp.png)
 
-[![CTFL](https://img.shields.io/badge/CTFL-Certified-brightgreen)](https://www.isqi.org/en/software-tester.html)
+[![CTFL](./ctfl.png]
 
 
 # 💫 About Me:
