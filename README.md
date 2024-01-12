@@ -1,10 +1,5 @@
 ![Header](./acbcover.png)
-<p align="center">
-<img src="./ctfl.png" alt="ctfl" width="50" height="50">
-<img src="./ccba.png" alt="ccba" width="50" height="50">
-<img src="./pspoi.png" alt="pspo i" width="50" height="50">
-<img src="./psmi.png" alt="psm i" width="50" height="50">
-</p>
+
 
 
 # 💫 About Me:
