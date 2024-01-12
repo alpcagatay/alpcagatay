@@ -1,4 +1,4 @@
-![Header](./github-header-alp.png)
+![Header](./acbcover.png)
 <p align="center">
 <img src="./ctfl.png" alt="ctfl" width="50" height="50">
 <img src="./ccba.png" alt="ccba" width="50" height="50">
