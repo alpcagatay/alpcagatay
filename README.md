@@ -1,4 +1,4 @@
-![Header](./acbcover_final.png)
+![Header](./acbcover_v2.png)
 
 
 
